@@ -3,7 +3,8 @@ Junior Front-End Web Developer passionate about building interactive web apps us
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nuhath-Khan-lahif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nuhath-Khan-lahif) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lahifkhan52@gmail.com)
+
 
 
 # 💻 Tech Stack:
