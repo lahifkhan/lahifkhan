@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nuhath Khan Lahif</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Building+modern+web+experiences+with+the+MERN+Stack;Crafting+Code.+Creating+Impact.)](https://git.io/typing-svg)
 # 💫 About Me:
 Junior Front-End Web Developer passionate about building interactive web apps using HTML, CSS, JavaScript, and React.<br><br>Competitive Programmer with 2⭐ on CodeChef and Pupil on Codeforces using C++.<br><br>Always learning, exploring new technologies, and improving my skills.
 
