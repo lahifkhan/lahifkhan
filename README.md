@@ -11,7 +11,7 @@ I'm a MERN Stack Developer building full-stack web applications with React, Tail
 
 <br>
 <div align="center">
-  <a href="www.linkedin.com/in/nuhath-khan-lahif-70b533292/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/nuhath-khan-lahif-70b533292/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://www.codechef.com/users/relax_wish_50"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=Codechef&logoColor=white" alt="CodeChef Badge"/></a>
 <a href="https://codeforces.com/profile/Lahif"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/></a>
   <a href="mailto:lahifkhan52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
