@@ -35,8 +35,8 @@ I'm a MERN Stack Developer building full-stack web applications with React, Tail
 
 
 <br>
-<h3>When I code, I rely on</h3>
 
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b>When I code, I rely on</b>
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
