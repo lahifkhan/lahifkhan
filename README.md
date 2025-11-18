@@ -1,10 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Nuhath Khan Lahif</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ABEFF&center=true&vCenter=true&width=550&lines=Passionate+Full+Stack+Developer;Building+modern+web+experiences+with+the+MERN;Crafting+Code.+Creating+Impact." />
 </p>
-# 💫 About Me:
-Junior Front-End Web Developer passionate about building interactive web apps using HTML, CSS, JavaScript, and React.<br><br>Competitive Programmer with 2⭐ on CodeChef and Pupil on Codeforces using C++.<br><br>Always learning, exploring new technologies, and improving my skills.
+
+## About Me
+
+I'm a MERN Stack Developer building full-stack web applications with React, Tailwind, Express.js, Firebase, and MongoDB. My day-to-day work revolves around creating modern, responsive apps and solving coding challenges.
+
 
 
 ## 🌐 Socials:
