@@ -46,12 +46,12 @@ I'm a MERN Stack Developer building full-stack web applications with React, Tail
 | **Database**            | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
 | **Tools & Platforms**   | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
+## 📊 GitHub Stats
 
+| GitHub Stats | GitHub Streak | Top Languages |
+|:---:|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lahifkhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lahifkhan&theme=transparent&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahifkhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lahifkhan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lahifkhan&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahifkhan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lahifkhan&icon=0&color=0)](https://visitcount.itsvg.in)
