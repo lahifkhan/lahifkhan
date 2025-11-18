@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ABEFF&center=true&vCenter=true&width=550&lines=Passionate+Full+Stack+Developer;Building+modern+web+experiences+with+the+MERN;Crafting+Code.+Creating+Impact." />
 </p>
 
-##  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM2OGJ5dW1ubDlmazVzZDExcHcwb3hhMDI0NjZsOWt4cXl6OWI0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZGbnid8SQaLvd5FnLz/giphy.gif" width ="35"><b>About Me</b>
+## About Me 
 
 I'm a MERN Stack Developer building full-stack web applications with React, Tailwind, Express.js, Firebase, and MongoDB. My day-to-day work revolves around creating modern, responsive apps and solving coding challenges.
 
