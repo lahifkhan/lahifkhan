@@ -1,3 +1,6 @@
+
+<h1 align="center">Hi 👋, I'm Nuhath Khan Lahif</h1>
+
 # 💫 About Me:
 Junior Front-End Web Developer passionate about building interactive web apps using HTML, CSS, JavaScript, and React.<br><br>Competitive Programmer with 2⭐ on CodeChef and Pupil on Codeforces using C++.<br><br>Always learning, exploring new technologies, and improving my skills.
 
