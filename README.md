@@ -15,7 +15,24 @@ I'm a MERN Stack Developer building full-stack web applications with React, Tail
 <a href="https://www.codechef.com/users/relax_wish_50"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=Codechef&logoColor=white" alt="CodeChef Badge"/></a>
 <a href="https://codeforces.com/profile/Lahif"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/></a>
   <a href="mailto:lahifkhan52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
-</div>
+</div
+
+
+<br>
+<br>
+
+
+
+  ### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with **JavaScript, React.js, Express.js,MongoDB and TanStack Query.**  
+- 🚀 &nbsp; I’m currently exploring **Next.js, TypeScript, PostgreSQL.**  
+- 📫 &nbsp; Reach me at: **lahifkhan52@gmail.com.**
+
+### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new technologies and building interesting projects.  
+- 🎮 &nbsp; I enjoy coding challenges, problem-solving, and experimenting with side projects.
+
 
 
 
