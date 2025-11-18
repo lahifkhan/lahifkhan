@@ -54,6 +54,8 @@ I'm a MERN Stack Developer building full-stack web applications with React, Tail
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lahifkhan&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lahifkhan&label=Profile%20views&color=0e75b6&style=flat" alt="lahifkhan" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
