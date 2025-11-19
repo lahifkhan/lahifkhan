@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/lahifkhan/lahifkhan/blob/main/banner.png" alt="banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Nuhath Khan Lahif</h1>
 
 <p align="center">
