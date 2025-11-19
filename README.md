@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lahifkhan/lahifkhan/blob/main/banner.png" alt="banner" />
+  <img src="https://github.com/lahifkhan/lahifkhan/blob/main/banner.png" alt="banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Nuhath Khan Lahif</h1>
 
