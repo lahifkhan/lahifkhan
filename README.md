@@ -7,9 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ABEFF&center=true&vCenter=true&width=550&lines=Passionate+Full+Stack+Developer;Building+modern+web+experiences+with+the+MERN;Crafting+Code.+Creating+Impact." />
 </p>
 
-## About Me 
+## About Me
 
-I'm a MERN Stack Developer building full-stack web applications with React, Tailwind, Express.js, Firebase, and MongoDB. My day-to-day work revolves around creating modern, responsive apps and solving coding challenges.
+I'm an aspiring Software Quality Assurance (SQA) Engineer with a background in Full-Stack Web Development. My experience with React, Node.js, APIs, and databases helps me understand applications from both developer and user perspectives.
+
+I am passionate about Manual Testing, API Testing, Bug Reporting, and Test Automation, with a focus on delivering reliable and high-quality software.
 
 <br>
 <div align="center">
