@@ -30,13 +30,6 @@ I am passionate about Manual Testing, API Testing, Bug Reporting, and Test Autom
 <br>
 
 
-
-  ### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with **JavaScript, React.js, Express.js,MongoDB and TanStack Query.**  
-- 🚀 &nbsp; I’m currently exploring **Next.js, TypeScript, PostgreSQL.**  
-- 📫 &nbsp; Reach me at: **lahifkhan52@gmail.com.**
-
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building interesting projects.  
 - 🎮 &nbsp; I enjoy coding challenges, problem-solving, and experimenting with side projects.
