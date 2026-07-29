@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nuhath Khan Lahif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ABEFF&center=true&vCenter=true&width=550&lines=Passionate+Full+Stack+Developer;Building+modern+web+experiences+with+the+MERN;Crafting+Code.+Creating+Impact." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ABEFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Quality+Assurance+Engineer;Finding+Bugs+Before+Users+Do;Turning+Defects+Into+Better+Experiences" />
 </p>
 
 ## About Me
