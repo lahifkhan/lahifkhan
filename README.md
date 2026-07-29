@@ -31,8 +31,10 @@ I am passionate about Manual Testing, API Testing, Bug Reporting, and Test Autom
 
 
 ### My Absolute Favorites:
-- 💻 &nbsp; I love exploring new technologies and building interesting projects.  
-- 🎮 &nbsp; I enjoy coding challenges, problem-solving, and experimenting with side projects.
+
+* Finding bugs, improving user experiences, and ensuring software quality.
+* Leveraging my development background to build better testing strategies.
+
 
 
 <br>
